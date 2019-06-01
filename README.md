@@ -1,6 +1,6 @@
 # vue-typescript-demo
 
-> 这个项目起始于在vue加入强类型的念头，目的是提供一个手脚架快速上手和开始, 主要是基于vue + typescript 使用 .vue 单文件开发脚手架，支持jsx
+> 这个项目起始于在vue加入强类型的念头，目的是提供一个脚手架快速上手和开始, 主要是基于vue + typescript 使用 .vue 单文件开发脚手架，支持jsx
 
 ## 特性
 - webpack4
